@@ -1,0 +1,227 @@
+body {
+    margin: 0;
+}
+
+/*  Navigation Bar1 Style   */
+.nav {
+    background-color: #262626;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10rem;
+    padding: 10px 10px 10px 10px;
+}
+
+.logo1 {
+    height: 35px;
+    padding: left 0px;
+    ;
+}
+
+.ButtonNav {
+    padding: 8px 20px 6px 20px;
+    font-size: 13px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fafafa;
+    background-color: #82b445;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0 2px #6c9539;
+}
+
+.ButtonNav:hover {
+    background-color: #8fcc44;
+}
+
+/*  Navigation Bar2 Style   */
+
+.nav2 {
+    background-color: #1b1b1b;
+    color: white;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.6rem;
+}
+
+.logo2 {
+    height: 35px;
+
+}
+
+.logo3 {
+    height: 20px;
+
+    padding-left: 0px;
+    ;
+}
+
+.logo4 {
+    height: 23px;
+    padding-left: 500%;
+}
+
+.logo5 {
+    height: 50px;
+    padding-left: 250%;
+
+}
+
+.logo6 {
+    height: 22px;
+}
+
+
+/* Search box css */
+
+.Searchbox {
+padding-left: 230px;
+    border-color: #6c9539;
+}
+
+.Searchbox input {
+    font-size: 15px;
+    height: 30px;
+    width: 250px;
+    padding-left: 30px;
+    border-start-start-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding-top: 16px
+}
+
+.Searchbarbutton {
+    padding-bottom: 7px;
+    padding-top: 10px;
+    background-color: red;
+    border-color: #fafafa;
+    border-start-end-radius: 20px;
+    border-end-end-radius: 20px;
+}
+
+
+/*sign in css*/
+
+.Sign{
+    padding-left:650px;
+}
+
+.SignIn {
+    padding: 8px 20px 6px 20px;
+    font-size: 13px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fafafa;
+    background-color: #82b445;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0 2px #6c9539;
+    border-radius: 20px;
+}
+
+/* Sidebar Css */
+.Side {
+    display: flex;
+    background-color: #1b1b1b;
+    flex-direction: column;
+    margin-right: 10000px;
+    padding-right: 50px;
+    height: 1000px;
+    width: 5px;
+}
+
+.Sidebarbutton{
+border: none;
+background-color: #1b1b1b;
+    height:50px;
+    padding-left: 2px;
+}
+
+.Arrow{
+    height:50px;
+    width: 40px;
+    padding-right: 13px;
+}
+
+.Sidebarbutton :hover{
+    background-color: #343232;
+}
+
+
+.Homebutton{
+    border: none;
+    background-color: #1b1b1b;
+        height:50px;
+        padding-left: 2px;
+        padding-top:15px;
+    }
+    
+    .home{
+        height:50px;
+        width: 40px;
+        padding-right: 13px;
+    }
+    
+    .Homebutton :hover{
+        background-color: #343232;
+    }
+
+    .likebutton{
+        border: none;
+        background-color: #1b1b1b;
+            height:50px;
+            padding-left: 2px;
+            padding-top:30px;
+        }
+        
+        .like{
+            height:50px;
+            width: 40px;
+            padding-right: 13px;
+        }
+        
+        .likebutton :hover{
+            background-color: #343232;
+        }
+
+
+        .lockbutton{
+            border: none;
+            background-color: #1b1b1b;
+                height:50px;
+                padding-left: 2px;
+                padding-top:40px;
+            }
+            
+            .lock{
+                height:50px;
+                width: 40px;
+                padding-right: 13px;
+            }
+            
+            .lockbutton :hover{
+                background-color: #343232;
+            }
+
+
+            .userbutton{
+                border: none;
+                background-color: #1b1b1b;
+                    height:50px;
+                    padding-left: 2px;
+                    padding-top:50px;
+                }
+                
+                .user{
+                    height:50px;
+                    width: 40px;
+                    padding-right: 13px;
+                }
+                
+                .userbutton :hover{
+                    background-color: #343232;
+                }
