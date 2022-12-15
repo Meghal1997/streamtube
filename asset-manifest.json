@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/streamtube/static/css/main.6e4e0e1b.css",
+    "main.js": "/streamtube/static/js/main.dc1ce517.js",
+    "static/media/user-circle.png": "/streamtube/static/media/user-circle.32405b602a846bd9817b.png",
+    "static/media/house1.png": "/streamtube/static/media/house1.4ccfd0ebbf98190061db.png",
+    "static/media/lock.png": "/streamtube/static/media/lock.6d6bda3772329e844b0f.png",
+    "static/media/like.png": "/streamtube/static/media/like.af426d81f7dc9477a08f.png",
+    "static/media/arrow-right.png": "/streamtube/static/media/arrow-right.d05c5f07e43312dd8322.png",
+    "index.html": "/streamtube/index.html",
+    "main.6e4e0e1b.css.map": "/streamtube/static/css/main.6e4e0e1b.css.map",
+    "main.dc1ce517.js.map": "/streamtube/static/js/main.dc1ce517.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e4e0e1b.css",
+    "static/js/main.dc1ce517.js"
+  ]
+}
